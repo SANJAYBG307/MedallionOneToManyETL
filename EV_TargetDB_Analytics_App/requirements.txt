@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+streamlit
+plotly
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+pyarrow

@@ -82,3 +82,23 @@ temp/
 *.db
 *.sqlite
 *.sqlite3
+
+# Power BI files
+EV.pbix
+
+# Root markdown docs (keep README.md tracked)
+BUSINESS_PROBLEM.md
+BUSINESS_REQUIREMENTS.md
+Business_Story.md
+DATA_REQUIREMENTS.md
+INTERVIEW_STAR_STORY.md
+POWER_BI_TECHNIQUES_PLAYBOOK.md
+RESUME_PROJECT_INFO.md
+
+# Analytics app generated report outputs
+EV_TargetDB_Analytics_App/reports/csv/
+EV_TargetDB_Analytics_App/reports/figures/
+EV_TargetDB_Analytics_App/reports/**/*.png
+EV_TargetDB_Analytics_App/reports/**/*.jpg
+EV_TargetDB_Analytics_App/reports/**/*.jpeg
+EV_TargetDB_Analytics_App/reports/**/*.svg
